@@ -1,4 +1,4 @@
-# Opensea Solidity 合约源码分析
+# Opensea Solidity 合约源码概览
 
 这里介绍 Opensea 的源码分析
 
@@ -34,6 +34,5 @@
 - 审计报告:
   - https://github.com/trailofbits/publications/blob/master/reviews/SeaportProtocol.pdf
 - 相关解读
-  - https://www.freebuf.com/articles/blockchain-articles/338188.html
   - https://www.theblockbeats.info/news/30718
   - https://www.panewslab.com/zh/articledetails/sk465e369t44.html
